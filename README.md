@@ -20,6 +20,28 @@ The goal of this project is to build a **smart HR decision-support platform** th
 The system is designed as a **multi-page Streamlit dashboard** with a premium UI and multiple business-facing modules.
 
 ---
+# 🖼️ Dashboard Screenshots
+
+## 🏠 Home
+![Home Dashboard](assets/screenshots/home.png)
+
+## 📊 Executive Summary
+![Executive Summary](assets/screenshots/executive_summary.png)
+
+## 📉 Attrition Dashboard
+![Attrition Dashboard](assets/screenshots/attrition_dashboard.png)
+
+## 📝 Employee Reports
+![Employee Reports](assets/screenshots/employee_reports.png)
+
+## 🎯 Resume Screening
+![Resume Screening](assets/screenshots/resume_screening.png)
+
+## 💬 HR Copilot Chatbot
+![HR Copilot Chatbot](assets/screenshots/chatbot.png)
+
+## 📈 Project Statistics
+![Project Statistics](assets/screenshots/project_statistics.png)
 
 # ✨ Key Features
 
