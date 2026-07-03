@@ -1,0 +1,13 @@
+The employees at the highest attrition risk are:
+
+1.  **A 26-year-old Laboratory Technician in Research & Development (97% risk probability)**:
+    *   **Why:** Critically low monthly income (₹2,340), severe work-life imbalance (score 1/5 with overtime), and low relationship satisfaction (score 2/5).
+
+2.  **An 18-year-old Sales Representative in Sales (94% risk probability)**:
+    *   **Why:** Alarmingly low monthly income (₹1,878), significant work-life strain due to frequent travel and overtime, and low job and environment satisfaction (score 2/5 for both). Being new to the workforce (0 years experience) also increases their vulnerability.
+
+3.  **A 19-year-old Sales Representative in Sales (93% risk probability)**:
+    *   **Why:** Exceptionally low monthly income (₹1,675), poor work-life balance (score 2/5 with overtime), and being new to both the workforce and the company with no prior experience.
+
+**Common Themes Driving High Risk:**
+A recurring critical factor for these high-risk employees is **exceptionally low monthly income** coupled with **poor work-life balance** (often exacerbated by overtime and/or frequent travel). For the youngest employees, their early career stage and lack of tenure make them particularly vulnerable to seeking better opportunities when these fundamental needs are unmet. Profound dissatisfaction across job, environment, and relationships also significantly contributes to the risk.
