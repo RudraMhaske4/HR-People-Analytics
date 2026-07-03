@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Large generated files if needed
+# reports/employee_reports/
+# reports/resume_reports/
