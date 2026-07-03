@@ -138,47 +138,7 @@ Project overview page covering dataset, reports, outputs, modules, and system re
 
 ---
 
-# 🏗️ Project Architecture
-
-```text
-HR-People-Analytics/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── data/
-│   └── employee_attrition.csv
-│
-├── dashboard/
-│   ├── home.py
-│   ├── executive_summary.py
-│   ├── attrition_dashboard.py
-│   ├── employee_reports.py
-│   ├── resume_screening.py
-│   ├── chatbot_page.py
-│   └── project_statistics.py
-│
-├── src/
-│   ├── resume_backend.py
-│   └── other backend / utility scripts
-│
-├── reports/
-│   ├── high_risk_employees.csv
-│   ├── employee_reports/
-│   │   ├── employee_0.txt
-│   │   ├── employee_1.txt
-│   │   └── ...
-│   │
-│   └── resume_reports/
-│       ├── candidate_scores.csv
-│       └── candidate_report_advanced.txt
-│
-└── assets/
-    └── screenshots/
 ## Author
-
 Rudra Mhaske
 First Year AIML Student
 GitHub: github.com/RudraMhaske4
