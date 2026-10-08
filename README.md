@@ -68,7 +68,7 @@ Technical and operational overview page showing:
 - generated reports count
 - candidate report status
 - module coverage
-- project health overview
+- project health overview.
 
 ---
 
